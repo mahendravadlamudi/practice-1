@@ -1,0 +1,19 @@
+input {
+    width: 20%;
+    padding: 5px 10px;
+    margin: 4px 0;
+    display: flex;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 5px 10px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+  }
+  
